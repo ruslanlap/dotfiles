@@ -1,0 +1,11 @@
+/home/ruslan/vimrc/.vimrc?ref_type=heads
+/home/ruslan/vimrc/.vimrc
+/home/ruslan/.vimrc
+/home/ruslan/scripts/test.sh
+/home/ruslan/scripts/test
+/home/ruslan/scripts/ghp
+/home/ruslan/scripts/create_user_ssh_pub.sh
+/home/ruslan/MultiUserCreate/users.txt
+/home/ruslan/test
+/home/ruslan/.vim_runtime/my_configs.vim
+/home/ruslan/ghp.txt
