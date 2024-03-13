@@ -1,4 +1,0 @@
-#!/bin/shd
-set -e
-cat ~/.vim
-
