@@ -149,3 +149,7 @@ if [[ -f ~/.dircolors ]] ; then
 elif [[ -f /etc/DIR_COLORS ]] ; then
     eval $(dircolors -b /etc/DIR_COLORS)
 fi
+alias config='/usr/bin/git --git-dir=/home/ruslan/.cfg/ --work-tree=/home/ruslan'
+alias config=/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME
+alias config='/usr/bin/git --git-dir=/home/ruslan/.cfg/ --work-tree=/home/ruslan'
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
