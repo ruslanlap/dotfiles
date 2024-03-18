@@ -206,42 +206,102 @@
 |3,0,36,0,1,0,1709578545,"s"
 
 # Помітки:
-'0  20  76  ~/config-init
-|4,48,20,76,1710332375,"~/config-init"
-'1  31  0  ~/config-init
-|4,49,31,0,1710332151,"~/config-init"
-'2  31  0  ~/config-init
-|4,50,31,0,1710332151,"~/config-init"
-'3  1  57  ~/config-init
-|4,51,1,57,1710330203,"~/config-init"
-'4  9  57  ~/config-init
-|4,52,9,57,1710330203,"~/config-init"
+'0  21  0  ~/config
+|4,48,21,0,1710518464,"~/config"
+'1  34  0  ~/installzsh
+|4,49,34,0,1710340089,"~/installzsh"
+'2  20  76  ~/config-init
+|4,50,20,76,1710332375,"~/config-init"
+'3  31  0  ~/config-init
+|4,51,31,0,1710332151,"~/config-init"
+'4  31  0  ~/config-init
+|4,52,31,0,1710332151,"~/config-init"
 '5  1  57  ~/config-init
 |4,53,1,57,1710330203,"~/config-init"
 '6  9  57  ~/config-init
 |4,54,9,57,1710330203,"~/config-init"
-'7  1  41  ~/config-init
-|4,55,1,41,1710330053,"~/config-init"
-'8  1  41  ~/config-init
-|4,56,1,41,1710330053,"~/config-init"
-'9  15  41  ~/config-init
-|4,57,15,41,1710330053,"~/config-init"
+'7  1  57  ~/config-init
+|4,55,1,57,1710330203,"~/config-init"
+'8  9  57  ~/config-init
+|4,56,9,57,1710330203,"~/config-init"
+'9  1  41  ~/config-init
+|4,57,1,41,1710330053,"~/config-init"
 
 # Список переходів (від найновіших):
+-'  21  0  ~/config
+|4,39,21,0,1710518464,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1710518448,"~/config"
+-'  34  0  ~/installzsh
+|4,39,34,0,1710340089,"~/installzsh"
+-'  34  0  ~/installzsh
+|4,39,34,0,1710340089,"~/installzsh"
+-'  1  0  ~/installzsh
+|4,39,1,0,1710340063,"~/installzsh"
+-'  1  0  ~/installzsh
+|4,39,1,0,1710340063,"~/installzsh"
 -'  20  76  ~/config-init
 |4,39,20,76,1710332375,"~/config-init"
+-'  20  76  ~/config-init
+|4,39,20,76,1710332375,"~/config-init"
+-'  20  76  ~/config-init
+|4,39,20,76,1710332375,"~/config-init"
+-'  20  76  ~/config-init
+|4,39,20,76,1710332375,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710332320,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710332320,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710332320,"~/config-init"
 -'  1  0  ~/config-init
 |4,39,1,0,1710332320,"~/config-init"
 -'  31  0  ~/config-init
 |4,39,31,0,1710332151,"~/config-init"
 -'  31  0  ~/config-init
 |4,39,31,0,1710332151,"~/config-init"
+-'  31  0  ~/config-init
+|4,39,31,0,1710332151,"~/config-init"
+-'  31  0  ~/config-init
+|4,39,31,0,1710332151,"~/config-init"
+-'  31  0  ~/config-init
+|4,39,31,0,1710332151,"~/config-init"
+-'  31  0  ~/config-init
+|4,39,31,0,1710332151,"~/config-init"
+-'  31  0  ~/config-init
+|4,39,31,0,1710332151,"~/config-init"
+-'  31  0  ~/config-init
+|4,39,31,0,1710332151,"~/config-init"
+-'  1  41  ~/config-init
+|4,39,1,41,1710332140,"~/config-init"
+-'  1  41  ~/config-init
+|4,39,1,41,1710332140,"~/config-init"
+-'  1  41  ~/config-init
+|4,39,1,41,1710332140,"~/config-init"
 -'  1  41  ~/config-init
 |4,39,1,41,1710332140,"~/config-init"
 -'  9  57  ~/config-init
 |4,39,9,57,1710330203,"~/config-init"
 -'  9  57  ~/config-init
 |4,39,9,57,1710330203,"~/config-init"
+-'  9  57  ~/config-init
+|4,39,9,57,1710330203,"~/config-init"
+-'  9  57  ~/config-init
+|4,39,9,57,1710330203,"~/config-init"
+-'  9  57  ~/config-init
+|4,39,9,57,1710330203,"~/config-init"
+-'  9  57  ~/config-init
+|4,39,9,57,1710330203,"~/config-init"
+-'  9  57  ~/config-init
+|4,39,9,57,1710330203,"~/config-init"
+-'  9  57  ~/config-init
+|4,39,9,57,1710330203,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710330157,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710330157,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710330157,"~/config-init"
 -'  1  0  ~/config-init
 |4,39,1,0,1710330157,"~/config-init"
 -'  15  41  ~/config-init
@@ -250,6 +310,30 @@
 |4,39,15,41,1710330053,"~/config-init"
 -'  15  41  ~/config-init
 |4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  15  41  ~/config-init
+|4,39,15,41,1710330053,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710330036,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710330036,"~/config-init"
+-'  1  0  ~/config-init
+|4,39,1,0,1710330036,"~/config-init"
 -'  1  0  ~/config-init
 |4,39,1,0,1710330036,"~/config-init"
 -'  1  10  ~/.ssh/config
@@ -284,152 +368,82 @@
 |4,39,1,10,1709579225,"~/.ssh/config"
 -'  1  10  ~/.ssh/config
 |4,39,1,10,1709579225,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  2  25  ~/.ssh/config
-|4,39,2,25,1709579108,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1709579081,"~/.ssh/config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
--'  26  0  /etc/ssh/ssh_config
-|4,39,26,0,1709578581,"/etc/ssh/ssh_config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
+-'  1  10  ~/.ssh/config
+|4,39,1,10,1709579225,"~/.ssh/config"
 
 # Попередні помітки в файлах (від найновіших):
+
+> ~/config
+	*	1710518460	0
+	"	21	0
+	^	25	0
+	.	24	42
+	+	24	42
+
+> ~/installzsh
+	*	1710340087	0
+	"	34	0
+	^	34	0
+	.	33	135
+	+	33	135
 
 > ~/config-init
 	*	1710332374	0
