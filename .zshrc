@@ -40,7 +40,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Uncomment one of the following lines to change the auto-update behavior
 # zstyle ':omz:update' mode disabled  # disable automatic updates
-# zstyle ':omz:update' mode auto      # update automatically without asking
+zstyle ':omz:update' mode auto      # update automatically without asking
 # zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
 # Uncomment the following line to change how often to auto-update (in days).
@@ -124,10 +124,10 @@ source $ZSH/oh-my-zsh.sh
 
 # Use history substring search
 zstyle ':completion:*' menu select
-source /home/ruslan/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias upgrade="sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get clean"
 autoload -Uz up-line-or-beginning-search
-
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 autoload -Uz up-line-or-beginning-search
 
 zle -N up-line-or-beginning-search
@@ -141,7 +141,7 @@ zle -N down-line-or-beginning-search
 bindkey '^[[B' down-line-or-beginning-search
 
 
-source /home/ruslan/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 alias pf="find . -exec ls --color=auto {} + | fzf --preview='less {}' --bind shift-up:preview-page-up,shift-down:preview-page-down"
 if [[ -f ~/.dircolors ]] ; then
@@ -149,7 +149,6 @@ if [[ -f ~/.dircolors ]] ; then
 elif [[ -f /etc/DIR_COLORS ]] ; then
     eval $(dircolors -b /etc/DIR_COLORS)
 fi
-alias config='/usr/bin/git --git-dir=/home/ruslan/.cfg/ --work-tree=/home/ruslan'
-alias config=/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME
-alias config='/usr/bin/git --git-dir=/home/ruslan/.cfg/ --work-tree=/home/ruslan'
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
+
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
